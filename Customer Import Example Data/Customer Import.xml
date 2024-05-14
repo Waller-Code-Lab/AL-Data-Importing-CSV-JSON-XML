@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer>
+        <entrynumber>0</entrynumber>
+        <name>Alex</name>
+        <name2>Waller</name2>
+        <address>15 Earth</address>
+        <address2>The Best Road</address2>
+        <postcode>GK12 0JG</postcode>
+        <phonenumber>07127364293</phonenumber>
+        <registrationnumber>1111112</registrationnumber>
+        <vatregistrationnumber>222222222</vatregistrationnumber>
+        <email>alex@testing.com</email>
+    </customer>
+    <customer>
+        <entrynumber>0</entrynumber>
+        <name>David</name>
+        <name2>S</name2>
+        <address>45 Earth</address>
+        <address2>The Greatest Road</address2>
+        <postcode>HV31 9KG</postcode>
+        <phonenumber>07898712752</phonenumber>
+        <registrationnumber>1111112</registrationnumber>
+        <vatregistrationnumber>222222222</vatregistrationnumber>
+        <email>david@testing.com</email>
+    </customer>
+</customers>

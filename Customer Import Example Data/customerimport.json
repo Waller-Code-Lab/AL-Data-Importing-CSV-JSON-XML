@@ -1,0 +1,26 @@
+{
+    "customers": [
+        {
+            "name": "Alex",
+            "name2": "Waller",
+            "address": "15 Earth",
+            "address2": "The Best Road",
+            "postcode": "HW13 1KJ",
+            "phonenumber": "07182345438",
+            "registrationnumber": "1111112",
+            "vatregistrationnumber": "222222222",
+            "email": "alex@testing.com"
+        },
+        {
+            "name": "David",
+            "name2": "S",
+            "address": "45 Earth",
+            "address2": "The Greatest Road",
+            "postcode": "GK19 1JE",
+            "phonenumber": "07187675362",
+            "registrationnumber": "1111112",
+            "vatregistrationnumber": "222222222",
+            "email": "David@testing.com"
+        }
+    ]
+}
